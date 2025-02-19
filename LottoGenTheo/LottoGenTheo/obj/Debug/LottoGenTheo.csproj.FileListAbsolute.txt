@@ -1,0 +1,10 @@
+C:\Users\root\source\repos\LottoGenTheo\LottoGenTheo\bin\Debug\LottoGenTheo.exe.config
+C:\Users\root\source\repos\LottoGenTheo\LottoGenTheo\bin\Debug\LottoGenTheo.exe
+C:\Users\root\source\repos\LottoGenTheo\LottoGenTheo\bin\Debug\LottoGenTheo.pdb
+C:\Users\root\source\repos\LottoGenTheo\LottoGenTheo\obj\Debug\LottoGenTheo.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\LottoGenTheo\LottoGenTheo\obj\Debug\LottoGenTheo.Form1.resources
+C:\Users\root\source\repos\LottoGenTheo\LottoGenTheo\obj\Debug\LottoGenTheo.Properties.Resources.resources
+C:\Users\root\source\repos\LottoGenTheo\LottoGenTheo\obj\Debug\LottoGenTheo.csproj.GenerateResource.cache
+C:\Users\root\source\repos\LottoGenTheo\LottoGenTheo\obj\Debug\LottoGenTheo.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\LottoGenTheo\LottoGenTheo\obj\Debug\LottoGenTheo.exe
+C:\Users\root\source\repos\LottoGenTheo\LottoGenTheo\obj\Debug\LottoGenTheo.pdb
